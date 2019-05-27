@@ -76,4 +76,10 @@ public class Common {
         }
         return false;
     }
+
+
+
+    public void DummyMehtod (){
+    String codePrinciple = "Only half is a coding. The Other 90% is debugging. ";
+    }
 }
